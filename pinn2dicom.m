@@ -25,10 +25,10 @@ function varargout = pinn2dicom(varargin)
 %       DICOM file is included as part of this tool.
 %
 % This function returns the following variables upon successful execution:
-%   varargout{1}: structure containinig the CT data acquired from the
-%       volheader, including dim/width/start fields as well as a data
-%       field containing the 3D image.  See below for the definition of
-%       this structure.
+%   varargout{1} (optional): structure containinig the CT data acquired 
+%       from the volheader, including dim/width/start fields as well as 
+%       a data field containing the 3D image.  See below for the definition 
+%       of this structure.
 %
 % Author: Mark Geurts, mark.w.geurts@gmail.com
 % Copyright (C) 2014 University of Wisconsin Board of Regents
