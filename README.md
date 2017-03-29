@@ -12,11 +12,6 @@ WARNING: This tool has not been rigorously validated, as it was developed ad-hoc
 
 Pinnacle<sup>3</sup> is a registered trademark of Philips Healthcare.
 
-## Contents
-
-* [MATLAB Function Use](README.md#matlab-function-use)
-* [License](README.md#license)
-
 ## MATLAB Function Use
 
 This function optionally accepts the following inputs.  If not provided, the user will be prompted to select these files at the time of execution:
