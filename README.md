@@ -1,5 +1,4 @@
-pinn2dicom
-===========
+## Pinnacle<sup>3</sup> VolHeader to DICOM Conversion Tool
 
 by Mark Geurts <mark.w.geurts@gmail.com>
 <br>Copyright &copy; 2014, University of Wisconsin Board of Regents
